@@ -22,5 +22,9 @@
   },
   "devDependencies": {
     "vsce": "^2.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/jainambarbhaya1509/shogun"
   }
 }
