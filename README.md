@@ -31,7 +31,7 @@ https://github.com/jainambarbhaya1509/shogun/assets/78131937/db05df99-554c-46aa-
 
 ## Feedback and Contributions
 
-Feedback and contributions are always welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/jainambarbhaya1509/shogun) for the Rypjaws VS Code Theme Extension.
+Feedback and contributions are always welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute to the project, please visit the [GitHub repository](https://github.com/jainambarbhaya1509/shogun) for the Shogun VS Code Theme Extension.
 
 ## License
 

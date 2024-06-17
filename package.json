@@ -3,7 +3,7 @@
   "displayName": "shogun",
   "publisher": "JainamBarbhaya",
   "description": "Shogun VSCode theme blends traditional Japanese aesthetics with modern design, featuring dark backgrounds and vibrant syntax highlighting for a focused and enjoyable coding experience.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "assets/shogun.png",
   "engines": {
     "vscode": "^1.90.0"
