@@ -8,11 +8,10 @@
 
 Welcome to the Shogun VS Code Theme Extension! This extension introduces the Shodun theme to your Visual Studio Code editor, offering a sleek and engaging coding experience.
 
-<p align="center">
-  <img src="./assets/working.mp4" alt="Output" width="1000">
-  <br>
-  Working
-</p>
+
+
+https://github.com/jainambarbhaya1509/shogun/assets/78131937/db05df99-554c-46aa-8391-0a96bb5cf554
+
 
 ## Features
 
